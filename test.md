@@ -1,6 +1,3 @@
----
-layout: page
-title: My title
----
+aaa
 test
 test

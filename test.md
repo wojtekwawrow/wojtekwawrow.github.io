@@ -1,5 +1,6 @@
 ---
 layout: page
-title: "PAGE TITLE"
+title: My title
 ---
+test
 test
